@@ -1,0 +1,19 @@
+{
+  "name": "semana-frontend-mundo-invertido",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">\r     <img width=\"300\" src=\"https://micheleambrosio.github.io/semana-frontend-mundo-invertido/assets/images/banner/logo.svg\">\r </p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lauradevcode/semana-frontend-mundo-invertido.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lauradevcode/semana-frontend-mundo-invertido/issues"
+  },
+  "homepage": "https://github.com/lauradevcode/semana-frontend-mundo-invertido#readme"
+}
